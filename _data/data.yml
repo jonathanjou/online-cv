@@ -98,46 +98,6 @@ experiences:
           in greater detail and with novel visualization tools.
           - Mentored and led new PhD students in algorithms development and
           protein design, leading to multiple co-first author publications.
-    - role: Co-founder and Chief Algorithms Officer
-      time: 12/10/18 - 2/21/29
-      company: Google, London
-      details: |
-          - Jointly raised a $4M seed-round while in the IndieBio accelerator 
-          program in San Francisco.
-          - Developed novel software and algorithms to analyze and predict protein 
-          and small molecule binding interactions based on the OSPREY software suite.
-          - Applied proprietary state-of-the-art computational protein design 
-          technology for a pilot study with one of the top 10 pharmaceutical companies.
-    - role: Graduate Research Assistant
-      time: 8/23/11 - 5/31/18
-      company: Duke University
-      details: |
-          - Redesigned an anti-HIV broadly neutralizing antibody, developing new 
-          protocols combining my methods and the lab's state of the art. The 
-          redesigned antibodies neutralized sequences not previously neutralized 
-          by the wildtype sequence.
-          - Developed multiple novel algorithms for computational structure-based 
-          protein design that advanced the state of the art in both empirical 
-          speed and asymptotic complexity, leading to 3 publications and conference 
-          presentations.
-          - Applied my algorithms to retrospective studies, showing the risks of 
-          common assumptions made by protein designer and presenting mathematically 
-          rigorous, provable solutions, leading to publication.
-          - Developed a protocol to cyclize peptides, and applied it to an antibacterial
-          peptide
-      - role: Software Development Engineer
-        time: 8/23/11 - 5/31/18
-        company: Duke University
-        details: |
-          - Researched, designed and implemented 2 user-facing features in Office 2010
-          - Developed and maintained Perl-based server log processing automation, 
-          analyzing logs and generating error reports.
-          - Designed and implemented testing and platform infrastructure for partners 
-          for development of the upcoming version of Microsoft Office.
-          - Identified and discussed existing problems in the current code base and 
-          proposed, implemented, and demonstrated solutions.
-          - Fixed bugs and worked with program management to drive feature 
-          interoperability between Microsoft Office and Internet Explorer.
 
 projects:
     title: Projects
