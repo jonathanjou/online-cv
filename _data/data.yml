@@ -143,7 +143,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-        Below is a list of my academic projects, as well as a few unfinished video game ideas!
+        Below is a list of my academic projects, as well as a few unfinished video game ideas! (eternityslyre is my personal github account from college.)
     assignments:
       - title: OSPREY (Open Source Protein REdesign for You)
         link: "https://github.com/donaldlab/OSPREY3"
