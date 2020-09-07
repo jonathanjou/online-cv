@@ -109,6 +109,7 @@ experiences:
           and small molecule binding interactions based on the OSPREY software suite.
           - Applied proprietary state-of-the-art computational protein design 
           technology for a pilot study with one of the top 10 pharmaceutical companies.
+          
     - role: Graduate Research Assistant
       time: 8/23/11 - 5/31/18
       company: Duke University
@@ -124,8 +125,9 @@ experiences:
           - Applied my algorithms to retrospective studies, showing the risks of 
           common assumptions made by protein designer and presenting mathematically 
           rigorous, provable solutions, leading to publication.
-          - Developed a protocol to cyclize peptides, and applied it to an antibacterial 
+          - Developed a protocol to cyclize peptides, and applied it to an antibacterial
           peptide
+          
       - role: Graduate Research Assistant
         time: 8/23/11 - 5/31/18
         company: Duke University
@@ -175,7 +177,7 @@ publications:
     papers:
       - title: "Computational analysis of energy landscapes reveals dynamic features that contribute to binding of inhibitors to CFTR-associated ligand"
         link: "https://pubs.acs.org/doi/10.1021/acs.jpcb.9b07278"
-        authors: Graham T. Holt*, Jonathan D. Jou*, Nicholas P. Gill, Anna U. Lowegard, Jeffrey W. Martin, Dean R. Madden, and Bruce R. Donald
+        authors: Graham T. Holt*, Jonathan D. Jou*, Nicholas P. Gill, Anna U. Lowegard, Jeffrey W. Martin, Dean R. Madden, and Bruce R. Donald (*Contributed equally)
         conference: The Journal of Physical Chemistry B
         
       - title: "Novel, provable algorithms for efficient ensemble-based computational protein design 
@@ -185,55 +187,55 @@ publications:
         conference: PLoS Computational Biology
 
       - title: Minimization- Aware Recursive K* (MARK*): A Novel, Provable Algorithm that Accelerates Ensemble-based Protein Design and Provably Approximates the Energy Landscape.
-        link: "https://www.liebertpub.com/doi/10.1089/cmb.2019.0315"
-        authors: 3.	Jonathan D. Jou*, Graham T. Holt*, Anna U. Lowegard, and Bruce R. Donald
+        link: "https://www.liebertpub.com/doi/10.1089/cmb.2019.0315" 
+        authors: Jonathan D. Jou*, Graham T. Holt*, Anna U. Lowegard, and Bruce R. Donald (*Contributed equally)
         conference: "J. Comput. Biol., 27, 4:550-564"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: OSPREY 3.0: Open‐source protein redesign for you, with powerful new features. J. Comput. Chem. 2018, 39, 2494–2507. 10.1002/jcc.25522
+        link: "https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.25522"
+        authors: Mark A. Hallen, Jeffrey W. Martin, Adegoke Ojewole, Jonathan D. Jou, Anna U. Lowegard, Marcel S. Frenkel, Pablo Gainza, Hunter M. Nisonoff, Aditya Mukund, Siyu Wang, Graham T. Holt, David Zhou, Elizabeth Dowd, Bruce R. Donald. 
+        conference: "J. Comput. Chem. 2018, 39, 2494–2507. 10.1002/jcc.25522"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: BBK*(Branch and Bound over K*: An efficient, provable algorithm to optimize stability and binding affinity by sequence. 
+        link: "https://www.liebertpub.com/doi/10.1089/cmb.2017.0267"
+        authors: Adegoke Ojewole*, Jonathan D. Jou*, and Bruce R. Donald (*Contributed equally)
+        conference: " J Comput. Biol., 2017"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: LUTE (Local Unpruned Tuple Expansion): Accurate continuously flexible protein design with general energy functions and rigid-rotamer- like efficiency
+        link: "https://www.liebertpub.com/doi/10.1089/cmb.2016.0136"
+        authors: Mark A. Hallen, Jonathan D. Jou, and Bruce R. Donald. 
+        conference: "J. Comput. Biol. 2016."
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "BWM: A novel, provable, ensemble-based algorithm for sparse approximations of computational protein design"
+        link: "https://www.liebertpub.com/doi/10.1089/cmb.2016.0136"
+        authors: Journal version: Jonathan D. Jou*, Swati Jain*, Ivelin S. Georgiev, and Bruce R. Donald. (*Contributed equally)
+        conference: "J Comput Biol. 2016 Jun;23(6):413-24 "
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "A critical analysis of computational protein design with sparse residue interaction graphs."
+        link: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005346"
+        authors: Swati Jain*, Jonathan D. Jou*, Ivelin S. Georgiev, and Bruce R. Donald. (*Contributed equally)
+        conference: "PLoS Comp Biol. 2017; 13(3): e1005346."
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Java
         level: 98%
 
-      - name: Angular
+      - name: C++/C#
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Perl
+        level: 98%
 
-      - name: Ruby on Rails
+      - name: Linux/Unix
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: BASH
+        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
