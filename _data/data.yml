@@ -145,29 +145,23 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+        Below is a list of my academic projects, as well as a few unfinished video game ideas!
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: OSPREY (Open Source Protein REdesign for You)
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Structure-based protein and small-molecule design and resdesign software suite, emphasizing provable, ensemble-based algorithms."
 
-      - title: Tempo
+      - title: Protein Design Plugin (PDP)
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A collection of PyMOL tools for easy visualization and generation of input parameters for OSPREY."
 
-      - title: Atom
+      - title: Blackhat
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "A hybrid programming puzzle/platformer."
 
-      - title: Delta
+      - title: Procedural
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A procedurally generated murder mystery game."
 
 publications:
     title: Publications
