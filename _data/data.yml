@@ -180,29 +180,30 @@ publications:
         authors: Anna U. Lowegard, Marcel S. Frenkel, Graham T. Holt, Jonathan D. Jou, Adegoke A. Ojewole, and Bruce R. Donald
         conference: PLoS Computational Biology
 
-      - title: Minimization- Aware Recursive K* (MARK*): A Novel, Provable Algorithm that Accelerates Ensemble-based Protein Design and Provably Approximates the Energy Landscape.
+      - title: "Minimization- Aware Recursive K* (MARK*): A Novel, Provable Algorithm that Accelerates Ensemble-based Protein 
+        Design and Provably Approximates the Energy Landscape."
         link: "https://www.liebertpub.com/doi/10.1089/cmb.2019.0315" 
         authors: Jonathan D. Jou*, Graham T. Holt*, Anna U. Lowegard, and Bruce R. Donald (*Contributed equally)
         conference: "J. Comput. Biol., 27, 4:550-564"
 
-      - title: OSPREY 3.0: Open‐source protein redesign for you, with powerful new features. J. Comput. Chem. 2018, 39, 2494–2507. 10.1002/jcc.25522
+      - title: "OSPREY 3.0: Open‐source protein redesign for you, with powerful new features."
         link: "https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.25522"
         authors: Mark A. Hallen, Jeffrey W. Martin, Adegoke Ojewole, Jonathan D. Jou, Anna U. Lowegard, Marcel S. Frenkel, Pablo Gainza, Hunter M. Nisonoff, Aditya Mukund, Siyu Wang, Graham T. Holt, David Zhou, Elizabeth Dowd, Bruce R. Donald. 
         conference: "J. Comput. Chem. 2018, 39, 2494–2507. 10.1002/jcc.25522"
 
-      - title: BBK*(Branch and Bound over K*: An efficient, provable algorithm to optimize stability and binding affinity by sequence. 
+      - title: "BBK*(Branch and Bound over K*: An efficient, provable algorithm to optimize stability and binding affinity by sequence." 
         link: "https://www.liebertpub.com/doi/10.1089/cmb.2017.0267"
         authors: Adegoke Ojewole*, Jonathan D. Jou*, and Bruce R. Donald (*Contributed equally)
         conference: " J Comput. Biol., 2017"
 
-      - title: LUTE (Local Unpruned Tuple Expansion): Accurate continuously flexible protein design with general energy functions and rigid-rotamer- like efficiency
+      - title: "LUTE (Local Unpruned Tuple Expansion): Accurate continuously flexible protein design with general energy functions and rigid-rotamer- like efficiency."
         link: "https://www.liebertpub.com/doi/10.1089/cmb.2016.0136"
         authors: Mark A. Hallen, Jonathan D. Jou, and Bruce R. Donald. 
         conference: "J. Comput. Biol. 2016."
 
       - title: "BWM: A novel, provable, ensemble-based algorithm for sparse approximations of computational protein design"
         link: "https://www.liebertpub.com/doi/10.1089/cmb.2016.0136"
-        authors: Journal version: Jonathan D. Jou*, Swati Jain*, Ivelin S. Georgiev, and Bruce R. Donald. (*Contributed equally)
+        authors: Jonathan D. Jou*, Swati Jain*, Ivelin S. Georgiev, and Bruce R. Donald. (*Contributed equally)
         conference: "J Comput Biol. 2016 Jun;23(6):413-24 "
 
       - title: "A critical analysis of computational protein design with sparse residue interaction graphs."
