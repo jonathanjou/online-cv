@@ -146,19 +146,19 @@ projects:
         Below is a list of my academic projects, as well as a few unfinished video game ideas!
     assignments:
       - title: OSPREY (Open Source Protein REdesign for You)
-        link: "#"
+        link: "https://github.com/donaldlab/OSPREY3"
         tagline: "Structure-based protein and small-molecule design and resdesign software suite, emphasizing provable, ensemble-based algorithms."
 
       - title: Protein Design Plugin (PDP)
-        link: "#"
+        link: "https://github.com/donaldlab/ProteinDesignPlugin"
         tagline: "A collection of PyMOL tools for easy visualization and generation of input parameters for OSPREY."
 
       - title: Blackhat
-        link: "#"
+        link: "https://github.com/eternityslyre/BlackHat"
         tagline: "A hybrid programming puzzle/platformer."
 
       - title: Procedural
-        link: "#"
+        link: "https://github.com/eternityslyre/Procedural"
         tagline: "A procedurally generated murder mystery game."
 
 publications:
