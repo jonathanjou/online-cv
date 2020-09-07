@@ -98,7 +98,6 @@ experiences:
           in greater detail and with novel visualization tools.
           - Mentored and led new PhD students in algorithms development and
           protein design, leading to multiple co-first author publications.
-
     - role: Co-founder and Chief Algorithms Officer
       time: 12/10/18 - 2/21/29
       company: Google, London
@@ -109,7 +108,6 @@ experiences:
           and small molecule binding interactions based on the OSPREY software suite.
           - Applied proprietary state-of-the-art computational protein design 
           technology for a pilot study with one of the top 10 pharmaceutical companies.
-          
     - role: Graduate Research Assistant
       time: 8/23/11 - 5/31/18
       company: Duke University
@@ -127,8 +125,7 @@ experiences:
           rigorous, provable solutions, leading to publication.
           - Developed a protocol to cyclize peptides, and applied it to an antibacterial
           peptide
-          
-      - role: Graduate Research Assistant
+      - role: Software Development Engineer
         time: 8/23/11 - 5/31/18
         company: Duke University
         details: |
